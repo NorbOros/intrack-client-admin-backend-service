@@ -1,4 +1,4 @@
-# intrack-client-admin-backend-service
+# Client Admin backend service
 Reactive RESTful Web Service for processing client and appointment related data.
 
 # Main tech stack
